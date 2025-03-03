@@ -17,3 +17,8 @@ subheadline
 let x = 5;
 console.log(x);
 ```
+<details>
+<summary>collapsed</summary>
+
+wassuuuupppp
+</details>
